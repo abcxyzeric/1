@@ -1,5 +1,5 @@
 {
-  "name": "1",
+  "name": "mythos-0.3",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@google/genai": "^1.29.0",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "react-dropzone": "^14.3.8"
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "framer-motion": "^12.24.12",
+    "lucide-react": "^0.562.0",
+    "idb": "^8.0.3",
+    "zod": "3.22.4",
+    "@google/genai": "^1.35.0",
+    "path": "^0.12.7",
+    "vite": "^7.3.1",
+    "@vitejs/plugin-react": "^5.1.2",
+    "url": "^0.11.4"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
